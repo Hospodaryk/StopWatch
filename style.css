@@ -1,0 +1,45 @@
+ * {
+  background-color: black;
+}
+
+#hero-video {
+  height: 380px;
+  width: 380px;
+  border-radius: 20px;
+  
+}
+
+.video-container {
+  margin: 40px;
+  text-align: center;
+}
+
+
+.counter {
+  width: 90px;
+  height: 35px;
+  margin: 10px;
+  font-size: 30px;
+  
+  border: 3px solid rgb(226, 114, 133);
+  background-color: pink;
+}
+
+.counterTime {
+  padding: 20px;
+  display: flex;
+  content: inline-block;
+  text-align: center;
+  justify-content: center;
+}
+
+.buttons {
+ 
+  text-align: center;
+  letter-spacing: 7px;
+}
+.btn {
+  font-size: 15px;
+  letter-spacing: 3px;
+color: white;
+}
